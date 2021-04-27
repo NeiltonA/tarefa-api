@@ -34,3 +34,7 @@ C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\obj\Debug\net5.0\Tar
 C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\obj\Debug\net5.0\ref\TarefasApi.dll
 C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\obj\Debug\net5.0\TarefasApi.pdb
 C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\obj\Debug\net5.0\TarefasApi.genruntimeconfig.cache
+C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\neilt\OneDrive\Área de Trabalho\DotNet\TarefasApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
