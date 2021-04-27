@@ -1,0 +1,22 @@
+version: '3.1'
+
+services:
+  tarefas-api:
+    image: tarefasapi
+    build:
+      context: .
+    networks:
+      - tarefa-network
+    depends_on:
+      - "basetarefa"
+
+  basetarefa:
+    image: postgres
+    ports:
+      - "57017:27017"
+    networks:
+      - tarefa-network
+
+networks: 
+    tarefa-network:
+      driver: bridge
